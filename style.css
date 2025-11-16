@@ -1,0 +1,54 @@
+body{
+    
+    text-align: center;
+    margin: 20px;
+    background-image: url('background.png');
+    cursor: url(cursor.png) 4 4, auto;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:yellow;
+}
+
+h2,h3{
+    color:purple;
+
+}
+
+p{
+    color:aliceblue;
+    font-size:20px;
+    margin:0 auto 1em auto;
+}
+
+img{
+    width:500px;
+    box-shadow: 3px 3px 3px black;
+}
+
+ol,table{
+    color:aliceblue;
+    text-align: left;
+    max-width:700px;
+    margin:0 auto 1em auto;
+    
+}
+
+table{
+    background-color: purple;
+    color:white;
+    width:60%;
+    margin: 0 auto 10px auto;
+} 
+
+ol{
+    padding-left:200px;
+
+}
+
+th,td{
+    border: 3px solid rgb(0, 0, 0);
+
+}
+
